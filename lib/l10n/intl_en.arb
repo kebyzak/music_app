@@ -1,0 +1,19 @@
+{
+  "letsGo": "Поехали!",
+  "email": "Эл.почта",
+  "password": "Пароль",
+  "signIn": "Войти",
+  "dontHaveAccountCreateOne": "Нет аккаунта? Зарегистрируйтесь!",
+  "splashText": "Музыка - это состояние души.",
+  "name": "Имя",
+  "alreadyAMemberSignIn": "Уже есть аккаунт? Войти",
+  "signUp": "Зарегистрироваться",
+  "loginOrPasswordIsIncorrect": "Неправильный пароль или электронная почта.",
+  "noPermission": "Нет доступа",
+  "qr": "QR",
+  "copyLink": "Скопировать ссылку",
+  "error": "Ошибка",
+  "signOut": "Выйти",
+  "clickToSeeStories": "Истории",
+  "unknownState": "Unknown state"
+}
